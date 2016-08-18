@@ -1,2 +1,4 @@
 # Pebble-Sample
-Trying out the Pebble SDK using the guide from Pebble Dev site. Here is a sample watchface
+This repo contains a sample Pebble Smartwatch wathface.
+
+I created this watchface by following the instructions from the Pebble Developer's site. This is more or less a straight forward reproduction of the instructions. Will be uploading a different, original watchface when I get more experience with the SDK. 
