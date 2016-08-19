@@ -1,0 +1,29 @@
+{
+    "author": "Siddarth Udayakumar ",
+    "dependencies": {},
+    "keywords": [],
+    "name": "sample",
+    "pebble": {
+        "capabilities": [
+            ""
+        ],
+        "displayName": "Sample",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk"
+        ],
+        "uuid": "62654158-94a1-4ab1-a535-269d3b6ebc24",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.0.0"
+}
